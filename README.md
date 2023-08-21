@@ -171,4 +171,4 @@ The recognizable commands by the interpreter are the following:
 olorunfemi Oloko
 Email: [f3mioloko@gmail.com) 
 
-Perpetual Stanley| Github: [otoobongekim](mailto:otoobongekim@gmail.com)
+Perpetual Stanley| Github:(mailto:otoobongekim@gmail.com)
